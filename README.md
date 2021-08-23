@@ -15,5 +15,5 @@ This is a command line application. It can be run from your computer.
 
 ## Visuals
 
-![screenshot](![image](https://user-images.githubusercontent.com/86253070/130516264-96a04a3e-07c2-483e-90b2-139c3666aaa1.png)
-)
+![image](https://user-images.githubusercontent.com/86253070/130516621-5006fdb8-73ae-4c99-a924-ee6496acfbff.png)
+
