@@ -1,0 +1,298 @@
+Feed Money: / 5 / 5.00
+Feed Money: / -10 / -10.00
+Feed Money: / -10 / -10.00
+Feed Money: / 1 / 1.00
+Feed Money: / 10 / 10.00
+Feed Money: / 55 / 65.00
+Feed Money: / 10 / 10.00
+Feed Money: / 1001 / 1011.00
+Feed Money: / 100000 / 101011.00
+Feed Money: / 1000000 / 1101011.00
+Feed Money: / 100 / 100.00
+Potato Crisps3.05100.00
+Stackers1.45100.00
+Grain Waves2.75100.00
+Cloud Popcorn3.65100.00
+Moonpie1.80100.00
+Cowtales1.50100.00
+Wonka Bar1.50100.00
+Crunchie1.75100.00
+Cola1.25100.00
+Dr. Salt1.50100.00
+Mountain Melter1.50100.00
+Heavy1.50100.00
+U-Chews0.85100.00
+Little League Chew0.95100.00
+Chiclets0.75100.00
+Triplemint0.75100.00
+Potato Crisps3.05100.00
+Stackers1.45100.00
+Grain Waves2.75100.00
+Cloud Popcorn3.65100.00
+Moonpie1.80100.00
+Cowtales1.50100.00
+Wonka Bar1.50100.00
+Crunchie1.75100.00
+Cola1.25100.00
+Dr. Salt1.50100.00
+Mountain Melter1.50100.00
+Heavy1.50100.00
+U-Chews0.85100.00
+Little League Chew0.95100.00
+Chiclets0.75100.00
+Triplemint0.75100.00
+Potato Crisps3.05100.00
+Stackers1.45100.00
+Grain Waves2.75100.00
+Cloud Popcorn3.65100.00
+Moonpie1.80100.00
+Cowtales1.50100.00
+Wonka Bar1.50100.00
+Crunchie1.75100.00
+Cola1.25100.00
+Dr. Salt1.50100.00
+Mountain Melter1.50100.00
+Heavy1.50100.00
+U-Chews0.85100.00
+Little League Chew0.95100.00
+Chiclets0.75100.00
+Triplemint0.75100.00
+Feed Money: / 5 / 5.00
+Potato Crisps3.055.00
+Stackers1.455.00
+Grain Waves2.755.00
+Cloud Popcorn3.655.00
+Moonpie1.805.00
+Cowtales1.505.00
+Wonka Bar1.505.00
+Crunchie1.755.00
+Cola1.255.00
+Dr. Salt1.505.00
+Mountain Melter1.505.00
+Heavy1.505.00
+U-Chews0.855.00
+Little League Chew0.955.00
+Chiclets0.755.00
+Triplemint0.755.00
+Feed Money: / 10 / 10.00
+Feed Money: / 6 / 6.00
+Feed Money: / 95 / 101.00
+Potato Crisps3.05101.00
+Stackers1.45101.00
+Grain Waves2.75101.00
+Cloud Popcorn3.65101.00
+Moonpie1.80101.00
+Cowtales1.50101.00
+Wonka Bar1.50101.00
+Crunchie1.75101.00
+Cola1.25101.00
+Dr. Salt1.50101.00
+Mountain Melter1.50101.00
+Heavy1.50101.00
+U-Chews0.85101.00
+Little League Chew0.95101.00
+Chiclets0.75101.00
+Triplemint0.75101.00
+Potato Crisps3.05101.00
+Stackers1.45101.00
+Grain Waves2.75101.00
+Cloud Popcorn3.65101.00
+Moonpie1.80101.00
+Cowtales1.50101.00
+Wonka Bar1.50101.00
+Crunchie1.75101.00
+Cola1.25101.00
+Dr. Salt1.50101.00
+Mountain Melter1.50101.00
+Heavy1.50101.00
+U-Chews0.85101.00
+Little League Chew0.95101.00
+Chiclets0.75101.00
+Triplemint0.75101.00
+07/28/2021 13:44:37 PM  Chiclets  0.75 / 100.25
+Potato Crisps3.05100.25
+Stackers1.45100.25
+Grain Waves2.75100.25
+Cloud Popcorn3.65100.25
+Moonpie1.80100.25
+Cowtales1.50100.25
+Wonka Bar1.50100.25
+Crunchie1.75100.25
+Cola1.25100.25
+Dr. Salt1.50100.25
+Mountain Melter1.50100.25
+Heavy1.50100.25
+U-Chews0.85100.25
+Little League Chew0.95100.25
+Chiclets0.75100.25
+Triplemint0.75100.25
+07/28/2021 13:44:53 PM  Cola  1.25 / 99.00
+Potato Crisps3.050.00
+Stackers1.450.00
+Grain Waves2.750.00
+Cloud Popcorn3.650.00
+Moonpie1.800.00
+Cowtales1.500.00
+Wonka Bar1.500.00
+Crunchie1.750.00
+Cola1.250.00
+Dr. Salt1.500.00
+Mountain Melter1.500.00
+Heavy1.500.00
+U-Chews0.850.00
+Little League Chew0.950.00
+Chiclets0.750.00
+Triplemint0.750.00
+Feed Money: / 5 / 5.00
+Potato Crisps3.055.00
+Stackers1.455.00
+Grain Waves2.755.00
+Cloud Popcorn3.655.00
+Moonpie1.805.00
+Cowtales1.505.00
+Wonka Bar1.505.00
+Crunchie1.755.00
+Cola1.255.00
+Dr. Salt1.505.00
+Mountain Melter1.505.00
+Heavy1.505.00
+U-Chews0.855.00
+Little League Chew0.955.00
+Chiclets0.755.00
+Triplemint0.755.00
+07/28/2021 14:02:57 PM  Dr. Salt  1.50 / 3.50
+Feed Money: / 10 / 10
+Potato Crisps3.0510
+Stackers1.4510
+Grain Waves2.7510
+Cloud Popcorn3.6510
+Moonpie1.8010
+Cowtales1.5010
+Wonka Bar1.5010
+Crunchie1.7510
+Cola1.2510
+Dr. Salt1.5010
+Mountain Melter1.5010
+Heavy1.5010
+U-Chews0.8510
+Little League Chew0.9510
+Chiclets0.7510
+Triplemint0.7510
+Potato Crisps3.0510
+Stackers1.4510
+Grain Waves2.7510
+Cloud Popcorn3.6510
+Moonpie1.8010
+Cowtales1.5010
+Wonka Bar1.5010
+Crunchie1.7510
+Cola1.2510
+Dr. Salt1.5010
+Mountain Melter1.5010
+Heavy1.5010
+U-Chews0.8510
+Little League Chew0.9510
+Chiclets0.7510
+Triplemint0.7510
+07/28/2021 14:05:23 PM  Triplemint  0.75 / 9.25
+Potato Crisps3.059.25
+Stackers1.459.25
+Grain Waves2.759.25
+Cloud Popcorn3.659.25
+Moonpie1.809.25
+Cowtales1.509.25
+Wonka Bar1.509.25
+Crunchie1.759.25
+Cola1.259.25
+Dr. Salt1.509.25
+Mountain Melter1.509.25
+Heavy1.509.25
+U-Chews0.859.25
+Little League Chew0.959.25
+Chiclets0.759.25
+Triplemint0.759.25
+07/28/2021 14:05:30 PM  Triplemint  0.75 / 8.50
+Potato Crisps3.058.50
+Stackers1.458.50
+Grain Waves2.758.50
+Cloud Popcorn3.658.50
+Moonpie1.808.50
+Cowtales1.508.50
+Wonka Bar1.508.50
+Crunchie1.758.50
+Cola1.258.50
+Dr. Salt1.508.50
+Mountain Melter1.508.50
+Heavy1.508.50
+U-Chews0.858.50
+Little League Chew0.958.50
+Chiclets0.758.50
+Triplemint0.758.50
+07/28/2021 14:05:38 PM  Triplemint  0.75 / 7.75
+Potato Crisps3.057.75
+Stackers1.457.75
+Grain Waves2.757.75
+Cloud Popcorn3.657.75
+Moonpie1.807.75
+Cowtales1.507.75
+Wonka Bar1.507.75
+Crunchie1.757.75
+Cola1.257.75
+Dr. Salt1.507.75
+Mountain Melter1.507.75
+Heavy1.507.75
+U-Chews0.857.75
+Little League Chew0.957.75
+Chiclets0.757.75
+Triplemint0.757.75
+07/28/2021 14:05:44 PM  Triplemint  0.75 / 7.00
+Potato Crisps3.057.00
+Stackers1.457.00
+Grain Waves2.757.00
+Cloud Popcorn3.657.00
+Moonpie1.807.00
+Cowtales1.507.00
+Wonka Bar1.507.00
+Crunchie1.757.00
+Cola1.257.00
+Dr. Salt1.507.00
+Mountain Melter1.507.00
+Heavy1.507.00
+U-Chews0.857.00
+Little League Chew0.957.00
+Chiclets0.757.00
+Triplemint0.757.00
+07/28/2021 14:05:49 PM  Triplemint  0.75 / 6.25
+Potato Crisps3.056.25
+Stackers1.456.25
+Grain Waves2.756.25
+Cloud Popcorn3.656.25
+Moonpie1.806.25
+Cowtales1.506.25
+Wonka Bar1.506.25
+Crunchie1.756.25
+Cola1.256.25
+Dr. Salt1.506.25
+Mountain Melter1.506.25
+Heavy1.506.25
+U-Chews0.856.25
+Little League Chew0.956.25
+Chiclets0.756.25
+Triplemint0.756.25
+Potato Crisps3.056.25
+Stackers1.456.25
+Grain Waves2.756.25
+Cloud Popcorn3.656.25
+Moonpie1.806.25
+Cowtales1.506.25
+Wonka Bar1.506.25
+Crunchie1.756.25
+Cola1.256.25
+Dr. Salt1.506.25
+Mountain Melter1.506.25
+Heavy1.506.25
+U-Chews0.856.25
+Little League Chew0.956.25
+Chiclets0.756.25
+Triplemint0.756.25
+07/28/2021 14:06:32 PM  Cola  1.25 / 5.00
