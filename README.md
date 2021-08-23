@@ -15,4 +15,4 @@ This is a command line application. It can be run from your computer.
 
 ## Visuals
 
-![screenshot](.PNG)
+![screenshot]()
